@@ -1,2 +1,2 @@
 # 92ste-site
-The website of "den 92ste"
+Drupal client for the website
